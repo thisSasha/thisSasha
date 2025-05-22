@@ -10,7 +10,7 @@
 ## Мои лучшие проекты
 
 [![Menu Nova](https://svg.bookmark.style/api?url=https://github.com/menuNova/index&mode=light&style=horizontal)](https://github.com/menuNova/index)
-[![Menu Nova](https://svg.bookmark.style/api?url=https://github.com/thisSasha/finansyinalogi&mode=light&style=horizontal)](https://github.com/thisSasha/finansyinalogi)
+[![Finnal](https://svg.bookmark.style/api?url=https://github.com/thisSasha/finansyinalogi&mode=light&style=horizontal)](https://github.com/thisSasha/finansyinalogi)
 
 ## Мой стек
 
