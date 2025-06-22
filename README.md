@@ -24,10 +24,10 @@
 ### Средние знания
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=ffffff)
 
 ### Начинаю изучать
 
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
