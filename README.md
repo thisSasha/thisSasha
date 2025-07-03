@@ -10,7 +10,8 @@
 ## Мои лучшие проекты
 
 [![Menu Nova](https://svg.bookmark.style/api?url=https://github.com/menuNova/index&mode=light&style=horizontal)](https://github.com/menuNova/index)
-[![Finnal](https://svg.bookmark.style/api?url=https://github.com/thisSasha/finansyinalogi&mode=light&style=horizontal)](https://github.com/thisSasha/finansyinalogi)
+[![Fin-nal](https://svg.bookmark.style/api?url=https://github.com/thisSasha/fin-nal&mode=light&style=horizontal)](https://github.com/thisSasha/fin-nal)
+[![Барбершоп Демо](https://svg.bookmark.style/api?url=https://github.com/thisSasha/barberShop_demo&mode=light&style=horizontal)](https://github.com/thisSasha/barberShop_demo)
 
 ## Мой стек
 
