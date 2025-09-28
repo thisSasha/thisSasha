@@ -2,7 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/-@thisDevSasha-2675a6?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/thisDevSasha)
 [![GitHub](https://img.shields.io/badge/-@thisSasha-171717?style=flat&logo=github)](https://github.com/thisSasha)
-[![GitHub](https://img.shields.io/badge/-@thisSasha-e65100?style=flat&logo=stackoverflow&logoColor=ffffff)](https://github.com/thisSasha)
+[![Stackoverflow](https://img.shields.io/badge/-@thisSasha-e65100?style=flat&logo=stackoverflow&logoColor=ffffff)](https://ru.stackoverflow.com/users/543121/thissasha)
 
 Я фронтенд разработчик, увлечён веб-технологиями с 2021 года. Люблю глубоко разбираться в устройстве компьютера, поэтому постоянно развиваюсь во всех сферах: от адаптивной верстки до взаимодействия с API. Я стремлюсь писать чистый, понятный код, который легко поддерживать и расширять. Открыт к новым проектам и активно ищу работу.
 
