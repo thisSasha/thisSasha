@@ -12,21 +12,23 @@
 
 [![Menu Nova](https://svg.bookmark.style/api?url=https://github.com/menuNova/index&mode=light&style=horizontal)](https://github.com/menuNova/index)
 [![Барбершоп Демо](https://svg.bookmark.style/api?url=https://github.com/thisSasha/barberShop_demo&mode=light&style=horizontal)](https://github.com/thisSasha/barberShop_demo)
+[![Energy Park Copy](https://svg.bookmark.style/api?url=https://github.com/thisSasha/energy-park_copy&mode=light&style=horizontal)](https://energypark-copy.onrender.com) 
 
 ## Мой стек
 
 ### ЯП
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-%23b22234?style=flat&logo=rust&logoColor=ffffff)
 
 ### Frontend
 
 ![Next](https://img.shields.io/badge/-Next-%23181717?style=flat&logo=next.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%2390e4fb?style=flat&logo=react&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 
 
 ### Backend
