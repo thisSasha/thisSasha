@@ -6,13 +6,12 @@
 
 Я фронтенд разработчик, увлечён веб-технологиями с 2021 года. Люблю глубоко разбираться в устройстве компьютера, поэтому постоянно развиваюсь во всех сферах: от адаптивной верстки до взаимодействия с API. Я стремлюсь писать чистый, понятный код, который легко поддерживать и расширять. Открыт к новым проектам и активно ищу работу.
 
-> [Сайт-портфолио](https://thisSasha.github.io/)
+[![Me](./text_mywebsite.png)](https://thisSasha.github.io/)
 
 ## Мои лучшие проекты
 
 [![Menu Nova](https://svg.bookmark.style/api?url=https://github.com/menuNova/index&mode=light&style=horizontal)](https://github.com/menuNova/index)
-[![Барбершоп Демо](https://svg.bookmark.style/api?url=https://github.com/thisSasha/barberShop_demo&mode=light&style=horizontal)](https://github.com/thisSasha/barberShop_demo)
-[![Energy Park Copy](https://svg.bookmark.style/api?url=https://github.com/thisSasha/energy-park_copy&mode=light&style=horizontal)](https://energypark-copy.onrender.com) 
+[![Барбершоп (Демо)](https://svg.bookmark.style/api?url=https://github.com/thisSasha/barberShop_demo&mode=light&style=horizontal)](https://github.com/thisSasha/gentCode_demo)
 
 ## Мой стек
 
